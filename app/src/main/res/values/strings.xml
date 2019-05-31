@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RPG Dice Roller 2</string>
+
+    <string-array name="dice">
+        <item>d4</item>
+        <item>d6</item>
+        <item>d8</item>
+        <item>d10</item>
+        <item>d12</item>
+        <item>d20</item>
+    </string-array>
+
+</resources>
